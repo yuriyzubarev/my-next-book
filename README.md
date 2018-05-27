@@ -23,3 +23,5 @@ Collection of lists to help choosing the next book
 [Bill Gates](https://www.gatesnotes.com/Books)
 
 [Book recommendations of great thinkers and entrepreneurs](http://www.favobooks.com/)
+
+[Book recommendations from guests on The Ezra Klein Show](https://www.vox.com/ezra-klein-show-podcast)
